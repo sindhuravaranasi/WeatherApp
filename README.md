@@ -10,7 +10,7 @@ In this assignment, I built UI for the weather service, that reads a date as inp
 -------------------------------------------------------------------
 
 Language - Java,CSS,HTML,JavaScript
-FrameWork - jQuery
+FrameWork - jQuery,AJAX
 Server - Amazon EC2
 
 To run the application just follow the below Url
@@ -35,5 +35,9 @@ URL - http://sindhuravaranasi.hopto.org:8080/Weather/home.html
 4. Export the project from Eclipse as a .war file.
 5. Push the .war file into the server.
 6. Start tomcat and run the url(public dns) of the instance in the browser.
+
+
+**NOTE**
+Please install the extension "Allow-Control-Allow-Origin" in Chrome to run the application smoothly.
 
 
