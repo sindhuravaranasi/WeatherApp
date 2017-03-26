@@ -5,4 +5,4 @@ From tomcat:8-jre8
 MAINTAINER "varanasa@mail.uc.edu">
 
 # Copy to images tomcat path
-ADD Weather.war /usr/local/tomcat/webapps/
+ADD C:/Users/Sindhura Varanasi/Weather.war /usr/local/tomcat/webapps/
